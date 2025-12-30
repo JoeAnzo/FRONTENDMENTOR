@@ -1,0 +1,60 @@
+ * {
+  margin:0;
+  padding:0;
+  box-sizing:border-box; 
+ }
+ :root{
+  --purple-color:hsl(332, 51%, 32%);
+  --brown-color:hsl(14, 45%, 36%);
+  --light-grey:hsl(30, 10%, 34%);
+  --dark-brown:hsl(24, 5%, 18%);
+ }
+ body{
+  margin:30px;
+ }
+ #recipe-intro-image img{
+  width:90vw;
+  border-radius:15px;
+ }
+ #recipe-intro-heading{
+  color:var(--dark-brown);
+  margin:30px 0 23px 0;
+ }
+  #Recipe-Intro-Paragraph{
+    margin-bottom:30px;
+    font-weight:900;
+  }
+section#Preparation-time{
+  background:rgb(224, 185, 224);
+  height:35vh;
+  border-radius:15px;
+}
+section#Preparation-time ul li{
+  list-style-position:inside;
+  margin:20px 0 30px 40px;
+  color:var(--light-grey);
+  font-weight:bolder;
+}
+#preparation-time-heading{
+  margin-left:40px;
+  color:var(--purple-color);
+  padding-top:30px;
+}
+#Recipe-Intro-Paragraph{
+  color:var(--light-grey);
+  font-size:16px;
+}
+section#ingredients{
+  height:40vh;
+  margin-top:30px;
+}
+section#ingredients ul li{
+  list-style-position:inside;
+  margin:20px;
+  color:var(--light-grey);
+  font-size:16px;
+  font-weight:bolder;
+}
+#ingredients-heading{
+  color:var(--brown-color);
+}
