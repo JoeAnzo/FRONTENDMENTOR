@@ -159,8 +159,7 @@ span{
   }
  section#ingredients{
   margin-left:30px;
-  height:40vh;
-  background:red;
+  height:60vh;
  }
  #ingredients-heading{
   color:var(--brown-color);
