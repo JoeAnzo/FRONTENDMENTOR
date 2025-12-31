@@ -23,9 +23,15 @@
  #recipe-intro-heading{
   color:var(--dark-brown);
   margin:30px 0 23px 0;
+  font-family: "Young Serif", serif;
+  font-weight: 900;
+  font-style: normal;
  }
   #Recipe-Intro-Paragraph{
     margin-bottom:30px;
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+    font-style: normal;
   }
 section#Preparation-time{
   background:rgb(233, 220, 233);
@@ -36,16 +42,24 @@ section#Preparation-time ul li{
   list-style-position:inside;
   margin:20px 0 30px 40px;
   color:var(--light-grey);
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 #preparation-time-heading{
   margin-left:40px;
   color:rgb(109, 15, 109);
   padding-top:30px;
-  font-weight:bolder;
+  font-family: "Young Serif", serif;
+  font-weight: 900;
+  font-style: normal;
 }
 #Recipe-Intro-Paragraph{
   color:var(--light-grey);
   font-size:16px;
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 section#ingredients{
   height:40vh;
@@ -56,9 +70,15 @@ section#ingredients ul li{
   margin:20px;
   color:var(--light-grey);
   font-size:16px;
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 #ingredients-heading{
   color:var(--brown-color);
+  font-family: "Young Serif", serif;
+  font-weight: 900;
+  font-style: normal;
 }
 #instructions,#nutrition {
   height:60vh;
@@ -67,11 +87,17 @@ section#ingredients ul li{
   list-style-position: inside;
   margin:20px;
   color:var(--light-grey);
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 #instructions-heading,.nutrition-heading {
   color:var(--brown-color);
   margin-top:20px;
   margin-bottom:20px;
+  font-family: "Young Serif", serif;
+  font-weight: 900;
+  font-style: normal;
 }
 ol li::marker{
   color:var(--brown-color);
@@ -82,7 +108,9 @@ hr {
 #nutri-paragraph{
   color:var(--light-grey);
   margin:20px 0 20px 0;
-  font-weight:bold;
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 .nutrition{
   display:flex;
@@ -90,6 +118,9 @@ hr {
 }
 .nutrition > p{
   margin:20px 0 20px 0;
+  font-family: "Young Serif", serif;
+  font-weight: 100;
+  font-style: normal;
 }
 .second{
   color:var(--brown-color);
