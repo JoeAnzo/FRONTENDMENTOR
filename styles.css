@@ -161,6 +161,7 @@ span{
  section#ingredients{
   margin-left:30px;
   height:40vh;
+  background:red;
  }
  #ingredients-heading{
   color:var(--brown-color);
