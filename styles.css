@@ -62,7 +62,6 @@ section#Preparation-time ul li{
   font-style: normal;
 }
 section#ingredients{
-  height:55vh;
   margin-top:30px;
 }
 section#ingredients ul li{
@@ -135,7 +134,7 @@ span{
     height:40vh;
   }
   section#ingredients{
-    height:50vh;
+    height:60vh;
   }
   body{
     margin:0;
